@@ -34,8 +34,8 @@ This Repository Contains the Implementation of Railway Management System Built w
 
   - ROBO3T - Mongo Visualizer
 
-  ## Setting Up
-  - Clone the Repository using the link from clone button
-  - `cd Rail-Manager/server && npm install`
-  - Make sure to start the mongodb server at port 27017
-  - `node server.js`
+## Setting Up
+- Clone the Repository using the link from clone button
+- `cd Rail-Manager/server && npm install`
+- Make sure to start the mongodb server at port 27017
+- `node server.js`
